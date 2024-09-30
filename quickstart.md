@@ -2,7 +2,7 @@
 
 1. Load the [collection file](Acrolinx-API.postman_collection.json) in [POSTMAN](https://www.getpostman.com/).
 2. Create a new [environment](https://learning.postman.com/docs/sending-requests/managing-environments/) and set an initial value for variables.
-3. Happy API requests.  
+3. Happy API requests.
   
 
 ## Variables
